@@ -1,0 +1,72 @@
+7
+chain      16
+cloth      11
+hide       13
+leather    12
+natural    15
+none       10
+scale      17
+12
+bite       1 D8   3
+bow        1 D6   2
+chill      1 D8   3
+claw       1 D6   3
+club       1 D6   2
+dagger     1 D4   2
+firebolt   1 D10  3
+horn       1 D8   3
+shortsword 1 D6   3
+slam       1 D8   3
+spear      1 D6   2
+unarmed    1 D4   2
+50
+elf           20  4   leather  bow
+centaur       30  5   natural  spear
+vampire       45  6   natural  bite
+umbramancer   22  5   cloth    chill
+goblin        12  4   none     dagger
+elf           20  4   leather  bow
+rakshasa      40  6   natural  claw
+illusionist   20  4   cloth    firebolt
+yeti          38  5   hide     claw
+bard          24  5   leather  dagger
+xorn          42  6   natural  bite
+hydra         55  6   natural  bite
+elf           20  4   leather  bow
+monk          24  5   cloth    unarmed
+umbramancer   22  5   cloth    chill
+rakshasa      40  6   natural  claw
+ogre          36  5   hide     club
+ettin         45  6   hide     club
+basilisk      30  5   natural  bite
+wraith        25  5   none     chill
+sorcerer      24  5   cloth    firebolt
+ettin         45  6   hide     club
+imp           10  4   natural  claw
+goblin        12  4   none     dagger
+imp           10  4   natural  claw
+jackalwere    16  4   leather  bite
+flumph        10  3   natural  slam
+nothic        20  4   natural  claw
+skeleton      15  4   none     shortsword
+quasit        10  3   natural  claw
+aarakocra     14  4   leather  spear
+arcanist      22  5   cloth    firebolt
+sorcerer      24  5   cloth    firebolt
+bard          24  5   leather  dagger
+skeleton      15  4   none     shortsword
+arcanist      22  5   cloth    firebolt
+skeleton      15  4   none     shortsword
+zombie        22  3   none     slam
+gladiator     32  6   scale    spear
+troll         50  6   natural  claw
+monk          24  5   cloth    unarmed
+unicorn       40  6   natural  horn
+dragonling    40  6   natural  bite
+vanguard      30  6   chain    spear
+ettin         45  6   hide     club
+questor       24  5   leather  shortsword
+umbramancer   22  5   cloth    chill
+nothic        20  4   natural  claw
+thief         22  5   leather  dagger
+goblin        12  4   none     dagger

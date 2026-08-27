@@ -1,0 +1,73 @@
+7
+chain      16
+cloth      11
+hide       13
+leather    12
+natural    15
+none       10
+plate      18
+15
+bite       1 D8   3
+bow        1 D6   2
+chill      1 D8   3
+claw       1 D6   3
+club       1 D6   2
+dagger     1 D4   2
+firebolt   1 D10  3
+horn       1 D8   3
+longsword  1 D8   3
+mace       1 D6   3
+shortsword 1 D6   3
+slam       1 D8   3
+spear      1 D6   2
+staff      1 D6   2
+tentacle   1 D8   3
+48
+centaur       30  5   natural  spear
+quasit        10  3   natural  claw
+flumph        10  3   natural  slam
+arcanist      22  5   cloth    firebolt
+zombie        22  3   none     slam
+necromancer   22  5   cloth    chill
+flumph        10  3   natural  slam
+imp           10  4   natural  claw
+umbramancer   22  5   cloth    chill
+necromancer   22  5   cloth    chill
+skeleton      15  4   none     shortsword
+imp           10  4   natural  claw
+elf           20  4   leather  bow
+zombie        22  3   none     slam
+lancer        28  5   chain    spear
+imp           10  4   natural  claw
+necromancer   22  5   cloth    chill
+unicorn       40  6   natural  horn
+quasit        10  3   natural  claw
+centaur       30  5   natural  spear
+krakenling    42  6   natural  tentacle
+druid         26  5   leather  staff
+paladin       32  6   plate    longsword
+cleric        28  5   chain    mace
+ogre          36  5   hide     club
+arcanist      22  5   cloth    firebolt
+yielder       24  5   hide     mace
+troll         50  6   natural  claw
+jackalwere    16  4   leather  bite
+illusionist   20  4   cloth    firebolt
+ogre          36  5   hide     club
+skeleton      15  4   none     shortsword
+necromancer   22  5   cloth    chill
+quasit        10  3   natural  claw
+fighter       30  6   chain    longsword
+nothic        20  4   natural  claw
+arcanist      22  5   cloth    firebolt
+oathbreaker   32  6   plate    longsword
+warrior       28  5   leather  longsword
+rakshasa      40  6   natural  claw
+troll         50  6   natural  claw
+sorcerer      24  5   cloth    firebolt
+hexblade      26  6   leather  longsword
+necromancer   22  5   cloth    chill
+bard          24  5   leather  dagger
+illusionist   20  4   cloth    firebolt
+sorcerer      24  5   cloth    firebolt
+bard          24  5   leather  dagger

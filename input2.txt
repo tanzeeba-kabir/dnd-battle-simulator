@@ -1,0 +1,113 @@
+8
+chain      16
+cloth      11
+hide       13
+leather    12
+natural    15
+none       10
+plate      18
+scale      17
+16
+bite       1 D8   3
+bow        1 D6   2
+chill      1 D8   3
+claw       1 D6   3
+club       1 D6   2
+dagger     1 D4   2
+firebolt   1 D10  3
+hoof       1 D6   3
+horn       1 D8   3
+longsword  1 D8   3
+mace       1 D6   3
+shortsword 1 D6   3
+slam       1 D8   3
+spear      1 D6   2
+staff      1 D6   2
+unarmed    1 D4   2
+86
+fighter       30  6   chain    longsword
+arcanist      22  5   cloth    firebolt
+aarakocra     14  4   leather  spear
+umbramancer   22  5   cloth    chill
+yielder       24  5   hide     mace
+illusionist   20  4   cloth    firebolt
+lizardfolk    22  4   natural  spear
+wraith        25  5   none     chill
+unicorn       40  6   natural  horn
+hexblade      26  6   leather  longsword
+rakshasa      40  6   natural  claw
+questor       24  5   leather  shortsword
+skeleton      15  4   none     shortsword
+elf           20  4   leather  bow
+imp           10  4   natural  claw
+goblin        12  4   none     dagger
+quasit        10  3   natural  claw
+skeleton      15  4   none     shortsword
+ettin         45  6   hide     club
+juggernaut    35  6   plate    slam
+umbramancer   22  5   cloth    chill
+illusionist   20  4   cloth    firebolt
+zombie        22  3   none     slam
+sorcerer      24  5   cloth    firebolt
+monk          24  5   cloth    unarmed
+thief         22  5   leather  dagger
+elf           20  4   leather  bow
+necromancer   22  5   cloth    chill
+arcanist      22  5   cloth    firebolt
+xenocaster    20  4   cloth    firebolt
+pegasus       26  4   natural  hoof
+warrior       28  5   leather  longsword
+bard          24  5   leather  dagger
+ettin         45  6   hide     club
+basilisk      30  5   natural  bite
+rakshasa      40  6   natural  claw
+flumph        10  3   natural  slam
+imp           10  4   natural  claw
+thief         22  5   leather  dagger
+ettin         45  6   hide     club
+yeti          38  5   hide     claw
+nothic        20  4   natural  claw
+centaur       30  5   natural  spear
+questor       24  5   leather  shortsword
+elf           20  4   leather  bow
+monk          24  5   cloth    unarmed
+pegasus       26  4   natural  hoof
+ogre          36  5   hide     club
+oathbreaker   32  6   plate    longsword
+yeti          38  5   hide     claw
+imp           10  4   natural  claw
+lizardfolk    22  4   natural  spear
+nothic        20  4   natural  claw
+gladiator     32  6   scale    spear
+troll         50  6   natural  claw
+arcanist      22  5   cloth    firebolt
+skeleton      15  4   none     shortsword
+aarakocra     14  4   leather  spear
+lizardfolk    22  4   natural  spear
+yielder       24  5   hide     mace
+lancer        28  5   chain    spear
+oathbreaker   32  6   plate    longsword
+hexblade      26  6   leather  longsword
+umbramancer   22  5   cloth    chill
+monk          24  5   cloth    unarmed
+dragonling    40  6   natural  bite
+quasit        10  3   natural  claw
+imp           10  4   natural  claw
+druid         26  5   leather  staff
+dragonling    40  6   natural  bite
+umbramancer   22  5   cloth    chill
+necromancer   22  5   cloth    chill
+druid         26  5   leather  staff
+thief         22  5   leather  dagger
+aarakocra     14  4   leather  spear
+goblin        12  4   none     dagger
+sorcerer      24  5   cloth    firebolt
+flumph        10  3   natural  slam
+knight        30  5   plate    longsword
+warrior       28  5   leather  longsword
+elf           20  4   leather  bow
+flumph        10  3   natural  slam
+oathbreaker   32  6   plate    longsword
+ranger        28  5   leather  bow
+imp           10  4   natural  claw
+ranger        28  5   leather  bow

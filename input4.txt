@@ -1,0 +1,15 @@
+5
+none       10
+leather    11
+studded    12
+chainmail  16
+plate      18
+3
+dagger     1 D4  2
+longsword  1 D8  3
+firebolt   1 D10 3
+4
+Hero     30 6 plate    longsword
+Goblin   12 4 none     dagger
+Mage     16 5 none     firebolt
+Orc      20 5 leather  longsword
